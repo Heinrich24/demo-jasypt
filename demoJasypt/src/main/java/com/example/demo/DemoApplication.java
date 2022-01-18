@@ -10,7 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		
 		// Adding in a very simple log statement
-		System.out.print("HELLO WORLD FROM MAC");
+		System.out.print("Hello world");
 	}
 	
 	
